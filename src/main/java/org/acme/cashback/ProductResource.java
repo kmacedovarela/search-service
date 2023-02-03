@@ -1,3 +1,5 @@
+package org.acme.cashback;
+
 import javax.inject.Inject;
 import javax.ws.rs.*;
 import javax.ws.rs.core.Response;
